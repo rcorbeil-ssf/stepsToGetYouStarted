@@ -15,5 +15,5 @@ Try adding an image using the following syntax:
 
 Or you can go to the Posts section, look at the first post to see how to create your own.
 
-Why don't you tell us about yourself?
+Why don't you tell us about yourselves?
 ![The first father](http://octodex.github.com/images/founding-father.jpg)
